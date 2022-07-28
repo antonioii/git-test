@@ -1,1 +1,1 @@
-This is only a simples text.
+This is only a simple text example.
